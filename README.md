@@ -7,3 +7,9 @@
 6.	Use “yarn dev” or “npm run dev” to run the project. Your terminal should look like this <img width="416" alt="image" src="https://github.com/sharaizk/patient-app-server/assets/64202206/9392947b-01fa-49ee-9623-d3275ad43fc9">
 7.	Run “npx sequelize-cli db:migrate” to auto generate tables inside your DATABASE
 8.	Run “npx sequelize-cli db:seed” to auto generate random USERS and PATIENTS inside your database
+9.	After running the seeders, you can use any of the following email to login (without creating new account)
+   seedtest1@gmail.com
+   seedtest2@gmail.com
+   seedtest3@gmail.com
+   seedtest4@gmail.com
+   passowrd for each email is: 123456789
