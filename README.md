@@ -12,4 +12,4 @@
    seedtest2@gmail.com
    seedtest3@gmail.com
    seedtest4@gmail.com
-   passowrd for each email is: 123456789
+   password for each email is: 123456789
